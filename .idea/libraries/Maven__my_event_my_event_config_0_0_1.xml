@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: my-event:my-event-config:0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my-event-config/pom.xml!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/my-event-config/my-event-config-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/my-event-config/my-event-config-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
