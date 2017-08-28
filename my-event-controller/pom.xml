@@ -22,11 +22,11 @@
         </dependency>
         <dependency>
             <groupId>it.my-event</groupId>
-            <artifactId>my-event-service</artifactId>
+            <artifactId>my-event-commons</artifactId>
         </dependency>
         <dependency>
             <groupId>it.my-event</groupId>
-            <artifactId>my-event-commons</artifactId>
+            <artifactId>my-event-service</artifactId>
         </dependency>
     </dependencies>
 

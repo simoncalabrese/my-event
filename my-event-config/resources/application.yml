@@ -1,0 +1,3 @@
+server:
+  contextPath: /be
+  port: 8080

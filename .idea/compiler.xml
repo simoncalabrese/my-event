@@ -14,11 +14,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="my-event-commons" target="1.5" />
-      <module name="my-event-config" target="1.5" />
-      <module name="my-event-controller" target="1.5" />
-      <module name="my-event-dao" target="1.5" />
-      <module name="my-event-service" target="1.5" />
+      <module name="my-event-commons" target="1.8" />
+      <module name="my-event-config" target="1.8" />
+      <module name="my-event-controller" target="1.8" />
+      <module name="my-event-dao" target="1.8" />
+      <module name="my-event-service" target="1.8" />
       <module name="myevent" target="1.8" />
       <module name="myeventcontroller" target="1.8" />
     </bytecodeTargetLevel>
