@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>my-event</artifactId>
-        <groupId>my-event</groupId>
-        <version>${project.version}</version>
+        <groupId>it.my-event</groupId>
+        <version>${my-event-version}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <version>${project.version}</version>
+
 
     <artifactId>my-event-service</artifactId>
 

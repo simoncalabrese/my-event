@@ -1,0 +1,4 @@
+.idea
+myevent*.iml
+*/target/
+/*/*.iml
