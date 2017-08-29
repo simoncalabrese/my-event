@@ -1,7 +1,7 @@
 server:
   contextPath: /be
   port: 8080
-neo4j:
+my.event.config.neo4j:
   path: bolt://localhost:7687
   username: neo4j
-  password: neo4j
+  password: PodeT8w7
