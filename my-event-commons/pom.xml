@@ -13,10 +13,7 @@
     <artifactId>my-event-commons</artifactId>
 
     <dependencies>
-        <dependency>
-            <groupId>it.my-event</groupId>
-            <artifactId>my-event-service</artifactId>
-        </dependency>
+
     </dependencies>
 
 </project>

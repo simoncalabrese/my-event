@@ -11,6 +11,16 @@
 
 
     <artifactId>my-event-service</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>it.my-event</groupId>
+            <artifactId>my-event-dao</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>it.my-event</groupId>
+            <artifactId>my-event-config</artifactId>
+        </dependency>
+    </dependencies>
 
 
 </project>

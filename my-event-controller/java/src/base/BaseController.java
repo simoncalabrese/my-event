@@ -14,8 +14,9 @@ import javax.servlet.http.HttpServletResponse;
 public abstract class BaseController {
 
     @ResponseBody
-    @ExceptionHandler(MyEventException.class)
-    public BaseDTO handleException(HttpServletResponse response, HttpServletResponse request, MyEventException error) {
+    @ExceptionHandler(Exception.class)
+    public BaseDTOImpl handleException(HttpServletResponse response, HttpServletResponse request, MyEventException error) {
+        System.out.println("ciao");
         return new BaseDTOImpl(error.handleConvert(MyEventException::getErrorMessages));
     }
 

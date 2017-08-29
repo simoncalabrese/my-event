@@ -11,6 +11,16 @@
 
 
     <artifactId>my-event-dao</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>org.neo4j.driver</groupId>
+            <artifactId>neo4j-java-driver</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>it.my-event</groupId>
+            <artifactId>my-event-config</artifactId>
+        </dependency>
+    </dependencies>
 
 
 </project>
