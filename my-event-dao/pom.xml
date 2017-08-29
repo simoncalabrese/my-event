@@ -20,6 +20,10 @@
             <groupId>it.my-event</groupId>
             <artifactId>my-event-config</artifactId>
         </dependency>
+        <dependency>
+            <groupId>it.my-event</groupId>
+            <artifactId>my-event-commons</artifactId>
+        </dependency>
     </dependencies>
 
 
